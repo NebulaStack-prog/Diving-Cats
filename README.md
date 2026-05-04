@@ -3,14 +3,14 @@
 Underwater memory game dedicated to two lost cats. 
 
 ## 💻 Run:
-- Download [Calculator_v.1.exe](Calculator_v.1.exe)
+- Download [Diving_Cats.exe](Diving_Cats.exe)
   
-- Or run [Calculator_v.1.py](Calculator_v.1.py)
+- Or run [Diving_Cats.py](Diving_Cats.py)
 
 ## 📄 Full documentation:
-- 🇷🇺  Russian version [Document](README_RU.md)
+- 🇷🇺  Russian version [Document](Diving_Cats_RU.md)
   
-- 🇺🇲  English version: [Document](README_EN.md)
+- 🇺🇲  English version: [Document](Diving_Cats_EN.md)
 
 ## 📷 Screenshots:
 ![](screenshot1.png)
