@@ -7,6 +7,11 @@ Underwater memory game dedicated to two lost cats.
   
 - Or run [Diving_Cats.c3p](DiveGame.c3p)
 
+## 💾 Code comments:
+- 🇷🇺 Russian version: [Comments](DiveCats_com_RU.md)
+  
+- 🇺🇲 English version: [Comments](DiveCats_com_EN.md)
+
 ## 📄 Full documentation:
 - 🇷🇺  Russian version [Document](Diving_Cats_RU.md)
   
