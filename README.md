@@ -2,22 +2,17 @@
 
 Underwater memory game dedicated to two lost cats. 
 
-## 💻 Run:
-- Download [Diving_Cats.exe](Diving_Cats.exe)
-  
-- Or run [Diving_Cats.c3p](DiveGame.c3p)
+## 💻 Project Run
+- Open with Construct 3 [Diving_Cats.c3p](DiveGame.c3p)
 
-## 💾 Code comments:
-- 🇷🇺 Russian version: [Comments](DiveCats_com_RU.md)
-  
-- 🇺🇲 English version: [Comments](DiveCats_com_EN.md)
+- Or download exe: [Diving_Cats.exe](Diving_Cats.exe)
 
-## 📄 Full documentation:
-- 🇷🇺  Russian version [Document](Diving_Cats_RU.md)
+## 📄 Full Documentation
+- 🇷🇺  Russian version [Documentation](Diving_Cats_RU.md)
   
-- 🇺🇲  English version: [Document](Diving_Cats_EN.md)
+- 🇺🇲  English version: [Documentation](Diving_Cats_EN.md)
 
-## 📷 Screenshots:
+## 📷 Screenshots
 ![](DiveCats_1.png)
 ![](DiveCats_2.png)
 ![](DiveCats_3.png)
