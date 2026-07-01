@@ -1,5 +1,7 @@
 # Diving Cats
 
+<img src="https://github.com/NebulaStack-prog/Diving-Cats/raw/main/IMG_20260701_020303_463.jpg" width="200" height="200">
+
 Underwater memory game dedicated to two lost cats. 
 
 ## 💻 Project Run
