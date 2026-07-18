@@ -2,7 +2,7 @@
 
 <img src="https://github.com/NebulaStack-prog/Diving-Cats/raw/main/IMG_20260701_020303_463.jpg" width="200" height="230">
 
-Underwater memory game dedicated to two lost cats. 
+> Underwater memory game dedicated to two lost cats. 
 
 ## 💻 Project Run
 - Download this file: [Diving_Cats.c3p](DiveGame.c3p)
